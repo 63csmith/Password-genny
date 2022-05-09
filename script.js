@@ -24,7 +24,6 @@ function writePassword() {
 
 }
 
-
 function generatePassword() {
   let selections = [] 
   if(confirmUpper.checked){
