@@ -30,6 +30,11 @@ header {
   color: hsl(206, 17%, 28%);
 }
 
+.options{
+  text-align: center;
+  margin-bottom: 5rem;
+  line-height: 3rem;
+}
 
 .card {
   background-color: hsl(0, 0%, 100%);
